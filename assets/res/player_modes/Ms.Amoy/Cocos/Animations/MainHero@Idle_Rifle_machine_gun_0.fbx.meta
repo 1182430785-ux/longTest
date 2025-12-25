@@ -1,0 +1,59 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": false,
+  "uuid": "c7b23588-42ec-43c8-9aca-a6745ee792c3",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "MainHero@Idle_Rifle_Ironsights_machine_gun_0",
+        "duration": 6.333333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Idle_Rifle_machine_gun_0",
+            "from": 0,
+            "to": 6.333333492279053,
+            "wrapMode": 2,
+            "previousId": "3b518"
+          }
+        ]
+      }
+    ],
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c7b23588-42ec-43c8-9aca-a6745ee792c3@eb7f5"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

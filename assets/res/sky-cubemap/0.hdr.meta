@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": false,
+  "uuid": "fc44ed2e-5ba5-47dc-8cbb-b8abac9d65cf",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "type": "texture cube",
+    "fixAlphaTransparencyArtifacts": false,
+    "isRGBE": true,
+    "hasAlpha": true
+  }
+}

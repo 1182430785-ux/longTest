@@ -1,0 +1,68 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": false,
+  "uuid": "98f98359-d38b-4673-acee-3d2962705c49",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Equip_Rifle_Standing_machine_gun1",
+            "from": 0,
+            "to": 1.7666666666666666,
+            "wrapMode": 1,
+            "speed": 2,
+            "previousId": "f3199"
+          },
+          {
+            "name": "EquipBack_Rifle_Standing_machine_gun1",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 1,
+            "speed": 2,
+            "previousId": "532bd"
+          }
+        ]
+      }
+    ],
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "98f98359-d38b-4673-acee-3d2962705c49@7ed6d"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

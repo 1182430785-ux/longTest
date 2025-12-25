@@ -1,0 +1,110 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": false,
+  "uuid": "502d5f4a-ecfb-46a7-97b1-988c9ed9771a",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "T_Hero_Body_BC",
+        "uri": "db://assets/res/player_modes/Ms.Amoy/Cocos/Materials/T_Hero_Body_BC.png"
+      },
+      {
+        "name": "T_Hero_Body_N",
+        "uri": "db://assets/res/player_modes/Ms.Amoy/Cocos/Materials/T_Hero_Body_N.png"
+      },
+      {
+        "name": "T_Hero_Head_BC",
+        "uri": "db://assets/res/player_modes/Ms.Amoy/Cocos/Materials/T_Hero_Head_BC.png"
+      },
+      {
+        "name": "T_Hero_Head_N",
+        "uri": "db://assets/res/player_modes/Ms.Amoy/Cocos/Materials/T_Hero_Head_N.png"
+      },
+      {
+        "name": "T_Hair_C",
+        "uri": "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@6bc8e"
+      },
+      {
+        "name": "T_Hair_Tthin_A",
+        "uri": "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@4ddda"
+      },
+      {
+        "name": "T_gun03_BC_2",
+        "uri": "db://assets/res/player_modes/Ms.Amoy/Cocos/Materials/T_gun03_BC.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "assetFinder": {
+      "meshes": [
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@1efe6",
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@a11d0"
+      ],
+      "skeletons": [
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@30732",
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@f1394"
+      ],
+      "textures": [
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@02540",
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@1dd84",
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@f7400",
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@97a6e",
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@6dad7",
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@ed98d",
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@31a81"
+      ],
+      "materials": [
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@97cd9",
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@4cc33",
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@5010d",
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@26dfd",
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@e71ec"
+      ],
+      "scenes": [
+        "502d5f4a-ecfb-46a7-97b1-988c9ed9771a@bcbca"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false,
+      "smartMaterialEnabled": false,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 0.2666666805744171,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Idle_Rifle_Ironsights",
+            "from": 0,
+            "to": 0.2666666805744171,
+            "wrapMode": 2,
+            "previousId": "5571d"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

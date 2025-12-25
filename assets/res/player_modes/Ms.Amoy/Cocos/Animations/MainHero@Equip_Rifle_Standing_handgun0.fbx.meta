@@ -1,0 +1,68 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": false,
+  "uuid": "f4547b09-0d0e-4083-a91e-4d34c3ee3a9b",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "animationImportSettings": [
+      {
+        "name": "Equip_Rifle_Standing_gun0",
+        "duration": 1.7666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Equip_Rifle_Standing_handgun0",
+            "from": 0,
+            "to": 1.7666666507720947,
+            "wrapMode": 1,
+            "speed": 2,
+            "previousId": "9b93f"
+          },
+          {
+            "name": "EquipBack_Rifle_Standing_handgun0",
+            "from": 0,
+            "to": 0.66,
+            "wrapMode": 1,
+            "speed": 2,
+            "previousId": "4c517"
+          }
+        ]
+      }
+    ],
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "f4547b09-0d0e-4083-a91e-4d34c3ee3a9b@7d8b2"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}

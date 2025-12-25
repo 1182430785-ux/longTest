@@ -1,0 +1,47 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": false,
+  "uuid": "b7a2b74c-2c4e-46cd-8b96-70fc5d000437",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true,
+      "matchMeshNames": false
+    },
+    "assetFinder": {
+      "meshes": [
+        "b7a2b74c-2c4e-46cd-8b96-70fc5d000437@6d970"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "b7a2b74c-2c4e-46cd-8b96-70fc5d000437@8d883"
+      ],
+      "scenes": [
+        "b7a2b74c-2c4e-46cd-8b96-70fc5d000437@aa065"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true
+  }
+}
